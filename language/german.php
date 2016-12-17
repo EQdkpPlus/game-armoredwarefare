@@ -22,7 +22,7 @@ $german_array = array (
     4 => 'DPS',
   ),
   'lang' => array(
-	  'armoredwarefare'				=> 'Armored Warefare',
+	  'armoredwarfare'				=> 'Armored Warefare',
 	  'uc_class'					=> 'Panzer',
   ),
 );
